@@ -1,5 +1,5 @@
 # Janji
-Saya Nur Abdillah dengan NIM 2408515 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
+Saya Nur Abdillah dengan NIM 2408515 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
 
 # Desain Program
 Pemrograman terdiri dari 3 class yang memiliki inheritance satu sama lain dan setiap kelas terdiri dari 3 atribut :
@@ -52,3 +52,4 @@ Sedangkan pemrograman di PHP Program akan menampilkan web simple, dan di program
 <img width="1920" height="1080" alt="Screenshot (959)" src="https://github.com/user-attachments/assets/b22f2e82-d4b5-465c-8627-698d1de990de" />
 
 <img width="1920" height="1080" alt="Screenshot (958)" src="https://github.com/user-attachments/assets/4fabeab5-2db4-4e52-9ae1-da95e2d76869" />
+
